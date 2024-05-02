@@ -1,0 +1,2 @@
+# WAuroraFilterlist
+Aurora's Filterlist
