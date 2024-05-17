@@ -1,0 +1,7 @@
+! Title: FMHY Unsafe sites filterlist
+! Description: Blocks sites in the fmhy unsafe sites filterlists
+! Last modified: ReplaceString1
+! Homepage: https://github.com/WindowsAurora/FMHYFilterlist
+! License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
+! Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
+! Entries: ReplaceString2
