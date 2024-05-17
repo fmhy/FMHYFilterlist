@@ -206,3 +206,7 @@
 ||-library.blog^
 ||z-library.help^
 ||z-library-proxy.com^
+! Fake Windows Activators
+||kmsmatrix.com^
+||kms-pc.com^
+||ezcrack.info^
