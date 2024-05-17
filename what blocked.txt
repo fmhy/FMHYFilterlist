@@ -35,3 +35,26 @@ BitTorrent / BitComet
 Frostwire
 BitLord
 Fake 1377x Sites
+
+Software / Apps:
+
+Limewire - Dead for years, anything claiming to be them now should be avoided
+Downloadly (video downloader) - Crypto miner
+Opera (browser) - Poor privacy practices / 2 / Predatory Loan Apps
+McAfee - Preinstalled Bloatware
+Avast - Known for selling user data
+AVG - Owned by Avast
+Gen Digital / Norton - Owned by Avast
+Avira - Owned by Gen Digital
+CCleaner - Owned by Avast, best to use built-in win 11 tool or bleachbit
+Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by malware distributor Kape
+BlueKik / Bluecord (chat mods) - History of spam / spying
+Kik (messaging app) - App used by mostly predators / scammers
+TLauncher (minecraft launcher) - Shady business practices / Note that TLauncher Legacy is unrelated
+PolyMC (minecraft launcher) - Owner kicked all members from repo / discord. Keep in mind PollyMC (two L's) is safe.
+GShade (ReShade mod) - Dev added code that can trigger unwanted reboots
+TotalAV / PC Protect / Protected
+
+
+Fake Zlib sites. (Source: https://new.reddit.com/r/zlibrary/comments/16xtm67/if_you_cannot_download_any_books_then_youre_on/ )
+( Last Updated May 17 2024 )
