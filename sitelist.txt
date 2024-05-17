@@ -11,6 +11,9 @@
 ||www.crackingpatching.org^
 ||crackingpatching.org^
 ||cracked-games.org^
+||www.wifi4games.com^
+||wifi4games.com^
+||wifi4games.net
 ||gamefabrique.com^
 ||gamefabrique.ru^
 ||steamunlocked.net^
@@ -121,7 +124,7 @@
 ||www.bitlord.com^
 ||bitlord.com^
 ||bitlorddl.com^
-||1337x.to^
+||1377x.to^
 ! Software / Apps
 ||limewire.com^
 ||downloadlynet.ir^
