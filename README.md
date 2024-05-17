@@ -18,3 +18,7 @@ Fork the project and make a new branch. add a filter in sitelist.txt and run bui
 ## Want to be a collaborator?
 
 Dm me in discord ( windowsaurora ) to request to be a collaborator this ensure the filterlist stays up to date if i can not update it. please note that you should have at least 1 pull request accepted to request being a collaborator.
+
+## How often does this filterlist get updated?
+
+12:00 UTC+1. if not then it will be updated on 16:00 UTC+1.
