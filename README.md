@@ -5,12 +5,11 @@ FMHY Filterlist, Blocks Unsafe Sites listed in unsafe sites.
 ### Ublock origin:
 1. Open ublock origin and select the cog ( to go to the dashboard ).
 2. Click filter lists 
-3. Scroll down to "Import" click it and type this url: ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt``` and hit enter.
+3. Scroll down to "Import" click it and type this url: ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt``` and hit enter
 ### Brave Browser:
 1. Open a new tab In Brave and type ```brave://settings/```
 2. Click Shields/Content Filtering/ Scroll down to Add custom filter lists
 3. Enter this url ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt``` and click add.
-
 
 ## How to use ( Developer Branch)
 ### Ublock origin:
