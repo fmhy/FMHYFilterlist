@@ -7,6 +7,7 @@
 ||oceanofgamesu.com^
 ||ipcgames.com/ocean-of-games/*
 ||oceanofgame.cc^
+||blackboxrepacke.com^
 ||crackingpatching.com^
 ||www.crackingpatching.org^
 ||crackingpatching.org^
@@ -205,3 +206,7 @@
 ||-library.blog^
 ||z-library.help^
 ||z-library-proxy.com^
+! Fake Windows Activators
+||kmsmatrix.com^
+||kms-pc.com^
+||ezcrack.info^

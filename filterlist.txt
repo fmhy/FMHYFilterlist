@@ -1,10 +1,10 @@
 ! Title: FMHY Unsafe sites filterlist
 ! Description: Blocks sites in the fmhy unsafe sites filterlists
-! Last modified: 17 May 2024 14:55 UTC
+! Last modified: 17 May 2024 15:37 UTC
 ! Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 ! License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-! Entries: 200
+! Entries: 204
 ! Unsafe game sites
 ||igg-games.com^
 ||igg-games.cc^
@@ -14,6 +14,7 @@
 ||oceanofgamesu.com^
 ||ipcgames.com/ocean-of-games/*
 ||oceanofgame.cc^
+||blackboxrepacke.com^
 ||crackingpatching.com^
 ||www.crackingpatching.org^
 ||crackingpatching.org^
@@ -212,3 +213,7 @@
 ||-library.blog^
 ||z-library.help^
 ||z-library-proxy.com^
+! Fake Windows Activators
+||kmsmatrix.com^
+||kms-pc.com^
+||ezcrack.info^
