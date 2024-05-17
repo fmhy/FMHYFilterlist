@@ -1,10 +1,10 @@
 ! Title: FMHY Unsafe sites filterlist
 ! Description: Blocks sites in the fmhy unsafe sites filterlists
-! Last modified: 17 May 2024 11:29 UTC
+! Last modified: 17 May 2024 14:55 UTC
 ! Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 ! License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-! Entries: 197
+! Entries: 200
 ! Unsafe game sites
 ||igg-games.com^
 ||igg-games.cc^
@@ -18,6 +18,9 @@
 ||www.crackingpatching.org^
 ||crackingpatching.org^
 ||cracked-games.org^
+||www.wifi4games.com^
+||wifi4games.com^
+||wifi4games.net
 ||gamefabrique.com^
 ||gamefabrique.ru^
 ||steamunlocked.net^
@@ -128,7 +131,7 @@
 ||www.bitlord.com^
 ||bitlord.com^
 ||bitlorddl.com^
-||1337x.to^
+||1377x.to^
 ! Software / Apps
 ||limewire.com^
 ||downloadlynet.ir^
