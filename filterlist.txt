@@ -1,22 +1,54 @@
 ! Title: FMHY Unsafe sites filterlist
 ! Description: Blocks sites in the fmhy unsafe sites filterlists
-! Last modified: 17 May 2024 10:17 UTC
+! Last modified: 17 May 2024 11:29 UTC
 ! Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 ! License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-! Entries: 166
+! Entries: 197
 ! Unsafe game sites
 ||igg-games.com^
 ||igg-games.cc^
 ||oceanofgames.com^
+||oceansofgamess.com^
+||oceantogames.com^
+||oceanofgamesu.com^
+||ipcgames.com/ocean-of-games/*
+||oceanofgame.cc^
 ||crackingpatching.com^
+||www.crackingpatching.org^
+||crackingpatching.org^
 ||cracked-games.org^
 ||gamefabrique.com^
 ||gamefabrique.ru^
 ||steamunlocked.net^
+! Pirate bay proxies And clones
 ||thepiratebay.org^
 ||pirate-bays.net^
 ||piratebayproxy.net^
+||www.pirateproxy-bay.com^
+||pirateproxy-bay.com^
+||thepiratebay3.co^
+||thepiratebay10.info^
+||thepiratebay7.com^
+||thepiratebay0.org^
+||thepiratebay10.org^
+||pirateproxy.live^
+||thehiddenbay.com^
+||piratebay.live^
+||thepiratebay.zone^
+||tpb.party^
+||thepiratebay.party^
+||piratebay.party^
+||piratebayproxy.live^
+||pirateproxylive.org^
+||thepiratebay10.xyz^
+||thepiratebay1.live^
+||thepiratebays.info^
+||thepiratebays.live^
+||thepiratebay1.top^
+||thepiratebay1.info^
+||thepiratebay.rocks^
+||thepiratebay.vet^
 ! Fake Fitgirl repacks sites
 ||fitgirl-repack.site^
 ||fitgirl-repack.com^
@@ -117,8 +149,11 @@
 ||us.norton.com^
 ||norton.com^
 ||login.norton.com^
+||www.nortonlifelock.com^
+||nortonlifelock.com^
 ||www.avira.com^
 ||avira.com^
+||my.avira.com^
 ||www.ccleaner.com^
 ||ccleaner.com^
 ||www.ccleanercloud.com^
@@ -138,12 +173,11 @@
 ||tlauncher.org^
 ||tlauncher.co.com^
 ||polymc.org^
-||github.com/PolyMC*
 ||www.gshade.org^
 ||gshade.org^
-||github.com/Mortalitas*
 ||www.totalav.com^
 ||totalav.com^
+||help.totalav.com^
 ||www.pcprotect.com^
 ||pcprotect.com^
 ! Fake Zlib Sites
@@ -175,5 +209,3 @@
 ||-library.blog^
 ||z-library.help^
 ||z-library-proxy.com^
-||twitter.com/ZLib_Official*
-||twitter.com/thezlibrary*
