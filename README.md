@@ -11,7 +11,7 @@ FMHY Filterlist, Blocks Unsafe Sites listed in unsafe sites.
 2. Click Shields/Content Filtering/ Scroll down to Add custom filter lists
 3. Enter this url ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt``` and click add.
 
-## How to use ( Developer Branch)
+## How to use ( Developer Branch )
 ### Ublock origin:
 1. Open ublock origin  ( to go to the dashboard ).
 2. Click filter lists 
