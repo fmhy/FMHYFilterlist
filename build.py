@@ -1,5 +1,4 @@
 import datetime
-import subprocess 
 
 def generate_blocklist(header_file, sitelist_file, output_file, format, filterlist_file_ublock_only=''):
   """
