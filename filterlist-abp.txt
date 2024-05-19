@@ -1,3 +1,4 @@
+[Adblock Plus]
 ! Title: FMHY Unsafe sites filterlist
 ! Description: Blocks sites in the fmhy unsafe sites filterlists
 ! Last modified: 19 May 2024 17:05 UTC
@@ -5,7 +6,7 @@
 ! License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
 ! Entries: 204
-! Format: ublock
+! Format: abp
 
 ! Unsafe game sites
 ||igg-games.com^
@@ -219,4 +220,3 @@
 ||kmsmatrix.com^
 ||kms-pc.com^
 ||ezcrack.info^
-||ipcgames.com/ocean-of-games/*
