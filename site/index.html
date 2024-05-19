@@ -52,6 +52,20 @@
                    3:Enter this url https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt and click add.
                 </p>
               </li>
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">
+                    <img src="img/blocked.svg" width="24" alt="...">
+                    Other blockers</a>
+                </a>
+                <p>Add blocklist url with right syntax/formatting according to documentation of your blocker. Blocklist formats: <br>
+                  Adblock Plus syntax (example uses: Pi-hole) : https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-abp.txt <br>
+                  uBlock Origin syntax : https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt <br>
+                  List of domains : https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-domains.txt <br>
+                  Hosts file : https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-hosts.txt <br>
+                  List of domains with wildcards : https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-wildcard-domains.txt <br>
+                  If your blocker doesn't support any of these formats, feel free to <a href="https://github.com/WindowsAurora/FMHYFilterlist/issues">create an issue</a> for adding support for your blocker.                  
+                </p>
+              </li>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Close</button>
@@ -117,6 +131,5 @@
       $("#loader-wrapper").fadeOut(700);
     });
   </script>
-  <script src="app.js"></script>
 </body>
 </html>
