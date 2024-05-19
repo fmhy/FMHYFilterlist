@@ -1,4 +1,5 @@
 import datetime
+import subprocess 
 
 def combine_files(header_file, sitelist_file, combined_file):
   """
