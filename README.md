@@ -1,6 +1,7 @@
 # FMHYFilterlist
 FMHY Filterlist, Blocks Unsafe Sites listed in unsafe sites.
 
+[Check Out The Website](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
 ## How to use
 ### Ublock origin:
 1. Open ublock origin and select the cog ( to go to the dashboard ).
