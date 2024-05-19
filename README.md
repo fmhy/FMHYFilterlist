@@ -11,6 +11,16 @@ FMHY Filterlist, Blocks Unsafe Sites listed in unsafe sites.
 1. Open a new tab In Brave and type ```brave://settings/```
 2. Click Shields/Content Filtering/ Scroll down to Add custom filter lists
 3. Enter this url ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt``` and click add.
+### Other blockers:
+Add blocklist url with right syntax/formatting according to documentation of your blocker.
+Blocklist formats:
+1. Adblock Plus syntax (example uses: Pi-hole) - ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-abp.txt```
+2. uBlock Origin syntax - ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt```
+3. List of domains - ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-domains.txt```
+4. Hosts file - ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-hosts.txt```
+5. List of domains with wildcards - ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-wildcard-domains.txt```
+
+If your blocker doesn't support any of these formats, feel free to create an issue for adding support for your blocker.
 
 ## How to contribute.
 

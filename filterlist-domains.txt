@@ -1,4 +1,13 @@
-! Unsafe game sites
+# Title: FMHY Unsafe sites filterlist
+# Description: Blocks sites in the fmhy unsafe sites filterlists
+# Last modified: 19 May 2024 17:42 UTC
+# Homepage: https://github.com/WindowsAurora/FMHYFilterlist
+# License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
+# Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
+# Entries: 204
+# Format: domains
+
+# Unsafe game sites
 igg-games.com
 igg-games.cc
 oceanofgames.com
@@ -18,7 +27,7 @@ wifi4games.net
 gamefabrique.com
 gamefabrique.ru
 steamunlocked.net
-! Pirate bay proxies And clones
+# Pirate bay proxies And clones
 thepiratebay.org
 pirate-bays.net
 piratebayproxy.net
@@ -46,7 +55,7 @@ thepiratebay1.top
 thepiratebay1.info
 thepiratebay.rocks
 thepiratebay.vet
-! Fake Fitgirl repacks sites
+# Fake Fitgirl repacks sites
 fitgirl-repack.site
 fitgirl-repack.com
 fitgirlrepacks.org
@@ -69,7 +78,7 @@ fitgirltorrent.com
 fitgirl-repacks.vip
 fitgirlrepackz.com
 fitgirl-repacks.theproxy.vip
-! Software / App Sites
+# Software / App Sites
 getintopc.com
 getintopc.cc
 igetintopc.com
@@ -110,7 +119,7 @@ www.zdnet.com
 zdnet.com
 en.softonic.com
 softonic.com
-! Torrent Sites / Clients
+# Torrent Sites / Clients
 thekickasstorrents.com
 kickass-official.blue
 vstorrent.org
@@ -126,7 +135,7 @@ www.bitlord.com
 bitlord.com
 bitlorddl.com
 1377x.to
-! Software / Apps
+# Software / Apps
 limewire.com
 downloadlynet.ir
 downloadly.ir
@@ -177,7 +186,7 @@ totalav.com
 help.totalav.com
 www.pcprotect.com
 pcprotect.com
-! Fake Zlib Sites
+# Fake Zlib Sites
 zlib.is
 z-lib.ai
 z-lib.club
@@ -206,7 +215,7 @@ z-lib.wiki
 -library.blog
 z-library.help
 z-library-proxy.com
-! Fake Windows Activators
+# Fake Windows Activators
 kmsmatrix.com
 kms-pc.com
 ezcrack.info
