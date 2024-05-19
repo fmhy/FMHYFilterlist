@@ -31,7 +31,7 @@ def generate_blocklist(header_file, sitelist_file, output_file, format, filterli
       # Add comment symbols before every header line
       if format == 'ublock' or format == 'abp':
         header_lines[i] = ('! ' + header_lines[i])
-      if format == 'hosts' or format == 'domains':
+      if format == 'hosts' or format == 'domains' or format == 'wildcard_domains':
         header_lines[i] = ('# ' + header_lines[i])
 
     # Add proper filterlist formatting to the domains
@@ -44,8 +44,11 @@ def generate_blocklist(header_file, sitelist_file, output_file, format, filterli
         elif format == 'hosts':
           domains_lines[i] = line.replace("\n", '')
           domains_lines[i] = ('0.0.0.0 ' + domains_lines[i] + "\n")
+        elif format == 'wildcard_domains':
+          domains_lines[i] = line.replace("\n", '')
+          domains_lines[i] = ('*.' + domains_lines[i] + "\n")
       if line.startswith('!'):
-        if format == 'hosts' or format == 'domains':
+        if format == 'hosts' or format == 'domains' or format == 'wildcard_domains':
           domains_lines[i] = line.replace('!', '#')
       line.format()
 
@@ -65,5 +68,6 @@ print("Generating filterlist.")
 generate_blocklist("header.txt", "sitelist.txt", "filterlist.txt", "ublock", "filters-ublock-only.txt")
 generate_blocklist("header.txt", "sitelist.txt", "filterlist-abp.txt", "abp")
 generate_blocklist("header.txt", "sitelist.txt", "filterlist-domains.txt", "domains")
+generate_blocklist("header.txt", "sitelist.txt", "filterlist-wildcard-domains.txt", "wildcard_domains")
 generate_blocklist("header.txt", "sitelist.txt", "filterlist-hosts.txt", "hosts")
 print("Build Finished")
