@@ -1,6 +1,6 @@
 # Title: FMHY Unsafe sites filterlist
 # Description: Blocks sites in the fmhy unsafe sites filterlists
-# Last modified: 19 May 2024 17:42 UTC
+# Last modified: 20 May 2024 07:16 UTC
 # Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 # License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
@@ -212,7 +212,7 @@
 0.0.0.0 z-library.live
 0.0.0.0 z-library.wiki
 0.0.0.0 z-lib.wiki
-0.0.0.0 -library.blog
+0.0.0.0 z-library.blog
 0.0.0.0 z-library.help
 0.0.0.0 z-library-proxy.com
 # Fake Windows Activators

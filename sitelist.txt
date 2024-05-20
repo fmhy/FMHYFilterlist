@@ -203,7 +203,7 @@ zlibrary.lol
 z-library.live
 z-library.wiki
 z-lib.wiki
--library.blog
+z-library.blog
 z-library.help
 z-library-proxy.com
 ! Fake Windows Activators
