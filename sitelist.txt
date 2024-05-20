@@ -114,6 +114,7 @@ ezcrack.info
 ! Torrent Sites / Clients
 thekickasstorrents.com
 kickass-official.blue
+kickasstorrents.to
 vstorrent.org
 www.utorrent.com
 utorrent.com

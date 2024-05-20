@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist
 # Description: Blocks sites in the fmhy unsafe sites filterlists
-# Last modified: 20 May 2024 18:48 UTC
+# Last modified: 20 May 2024 18:55 UTC
 # Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 # License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-# Entries: 244
+# Entries: 245
 # Format: hosts
 
 # Unsafe game sites
@@ -123,6 +123,7 @@
 # Torrent Sites / Clients
 0.0.0.0 thekickasstorrents.com
 0.0.0.0 kickass-official.blue
+0.0.0.0 kickasstorrents.to
 0.0.0.0 vstorrent.org
 0.0.0.0 www.utorrent.com
 0.0.0.0 utorrent.com
