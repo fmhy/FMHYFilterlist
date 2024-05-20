@@ -22,6 +22,10 @@ Blocklist formats:
 
 If your blocker doesn't support any of these formats, feel free to create an issue for adding support for your blocker.
 
+## How to contribute.
+
+Fork the project, add a website in sitelist.txt and run build.py then submit a pull request. 
+
 ## Want to be a collaborator?
 
 Dm me in discord ( windowsaurora ) to request to be a collaborator this ensure the filterlist stays up to date if i can not update it. please note that you should have at least 1 pull request accepted to request being a collaborator.
