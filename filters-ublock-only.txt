@@ -1,1 +1,5 @@
 ||ipcgames.com/ocean-of-games/*
+||massgrave.*^$all,domain=~massgrave.dev
+||massgrav.*^$all,domain=~massgrave.dev
+||massgraves.*^$all,domain=~massgrave.dev
+||*kmspico*.*^$all,domain=~forums.mydigitallife.net

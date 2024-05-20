@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist
 # Description: Blocks sites in the fmhy unsafe sites filterlists
-# Last modified: 20 May 2024 18:16 UTC
+# Last modified: 20 May 2024 18:35 UTC
 # Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 # License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-# Entries: 204
+# Entries: 244
 # Format: hosts
 
 # Unsafe game sites
@@ -119,6 +119,7 @@
 0.0.0.0 zdnet.com
 0.0.0.0 en.softonic.com
 0.0.0.0 softonic.com
+0.0.0.0 ezcrack.info
 # Torrent Sites / Clients
 0.0.0.0 thekickasstorrents.com
 0.0.0.0 kickass-official.blue
@@ -216,6 +217,45 @@
 0.0.0.0 z-library.help
 0.0.0.0 z-library-proxy.com
 # Fake Windows Activators
-0.0.0.0 kmsmatrix.com
+0.0.0.0 activator-kmspico.net
+0.0.0.0 ativadorkmspico.com
+0.0.0.0 dazactivator.com
+0.0.0.0 get-kmspico.com
+0.0.0.0 getkmspico.com
 0.0.0.0 kms-pc.com
-0.0.0.0 ezcrack.info
+0.0.0.0 kms-tool.com
+0.0.0.0 kmsautoplus.su
+0.0.0.0 kmsmatrix.com
+0.0.0.0 kmspico-activator-crack.com
+0.0.0.0 kmspico-activator-free.com
+0.0.0.0 kmspico-activator.in
+0.0.0.0 kmspico-mafia.com
+0.0.0.0 kmspico-official.xyz
+0.0.0.0 kmspico-oficial.com
+0.0.0.0 kmspico-tools2.site
+0.0.0.0 kmspico.co
+0.0.0.0 kmspico.icu
+0.0.0.0 kmspico.io
+0.0.0.0 kmspico.space
+0.0.0.0 kmspico.uno
+0.0.0.0 kmspico.ws
+0.0.0.0 kmspico10.com
+0.0.0.0 kmspicoactivator.net
+0.0.0.0 kmspicoativador.org
+0.0.0.0 kmspicodownloads.com
+0.0.0.0 kmspicofficial.com
+0.0.0.0 kmspicoofficial.com
+0.0.0.0 kmspicoportable.com
+0.0.0.0 massgrav.shop
+0.0.0.0 massgrav.zapto.org
+0.0.0.0 massgrave.hopto.org
+0.0.0.0 massgraves.online
+0.0.0.0 mrkmspico.com
+0.0.0.0 official-kmspico.co
+0.0.0.0 official-kmspico.com
+0.0.0.0 official-kmspico.org
+0.0.0.0 officialkmspico.com
+0.0.0.0 officialkmspico.download
+0.0.0.0 officialkmspico.net
+0.0.0.0 officials-kmspico.com
+0.0.0.0 oficial-kmspico.com
