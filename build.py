@@ -14,6 +14,11 @@ def generate_blocklist(header_file, sitelist_file, output_file, format, filterli
     for line in f_filtered:
       if not line.startswith('!'):
         num_entries += 1
+  if format == 'ublock':
+    with open(filterlist_file_ublock_only, 'r') as f_filtered_ublock:
+      for line in f_filtered_ublock:
+        if not line.startswith('!'):
+          num_entries += 1
 
   # Open header and combined files
   with open(header_file, 'r') as f_header, open(sitelist_file, 'r') as f_domains, open(output_file, 'w') as f_combined:
