@@ -3,3 +3,15 @@
 ||massgrav.*^$all,domain=~massgrave.dev
 ||massgraves.*^$all,domain=~massgrave.dev
 ||*kmspico*.*^$all,domain=~forums.mydigitallife.net
+||f*tgirl*repack*.*^$all,domain=~fitgirl-repacks.site
+||steamunlocked.*^$all
+||igg-games.*^$all
+||igggames.*^$all
+||aimhaven.*^$all
+||oceanofgames.*^$all
+||crackingpatching.*^$all
+||*cracked-games.*^$all
+||*getintopc.com^$all
+||*softonic.*^$all
+||*thepiratebay.*^$all
+||*kickasstorrents.*^$all
