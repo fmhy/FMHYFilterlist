@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist
 # Description: Blocks sites in the fmhy unsafe sites filterlists
-# Last modified: 20 May 2024 18:39 UTC
+# Last modified: 20 May 2024 18:55 UTC
 # Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 # License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-# Entries: 205
+# Entries: 245
 # Format: domains
 
 # Unsafe game sites
@@ -119,6 +119,7 @@ www.zdnet.com
 zdnet.com
 en.softonic.com
 softonic.com
+ezcrack.info
 # Torrent Sites / Clients
 thekickasstorrents.com
 kickass-official.blue
@@ -217,6 +218,45 @@ z-library.blog
 z-library.help
 z-library-proxy.com
 # Fake Windows Activators
-kmsmatrix.com
+activator-kmspico.net
+ativadorkmspico.com
+dazactivator.com
+get-kmspico.com
+getkmspico.com
 kms-pc.com
-ezcrack.info
+kms-tool.com
+kmsautoplus.su
+kmsmatrix.com
+kmspico-activator-crack.com
+kmspico-activator-free.com
+kmspico-activator.in
+kmspico-mafia.com
+kmspico-official.xyz
+kmspico-oficial.com
+kmspico-tools2.site
+kmspico.co
+kmspico.icu
+kmspico.io
+kmspico.space
+kmspico.uno
+kmspico.ws
+kmspico10.com
+kmspicoactivator.net
+kmspicoativador.org
+kmspicodownloads.com
+kmspicofficial.com
+kmspicoofficial.com
+kmspicoportable.com
+massgrav.shop
+massgrav.zapto.org
+massgrave.hopto.org
+massgraves.online
+mrkmspico.com
+official-kmspico.co
+official-kmspico.com
+official-kmspico.org
+officialkmspico.com
+officialkmspico.download
+officialkmspico.net
+officials-kmspico.com
+oficial-kmspico.com
