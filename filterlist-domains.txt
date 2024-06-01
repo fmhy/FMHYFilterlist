@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist
 # Description: Blocks sites in the fmhy unsafe sites filterlists
-# Last modified: 20 May 2024 18:55 UTC
+# Last modified: 01 Jun 2024 12:47 UTC
 # Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 # License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-# Entries: 245
+# Entries: 249
 # Format: domains
 
 # Unsafe game sites
@@ -175,6 +175,10 @@ www.cyberghostvpn.com
 cyberghostvpn.com
 www.kape.com
 kape.com
+www.vpnmentor.com
+vpnmentor.com
+www.wizcase.com
+wizcase.com
 bluesmods.com
 bluekik.pro
 kik.com
