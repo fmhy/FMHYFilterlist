@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist
 # Description: Blocks sites in the fmhy unsafe sites filterlists
-# Last modified: 01 Jun 2024 12:47 UTC
+# Last modified: 02 Jun 2024 17:37 UTC
 # Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 # License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-# Entries: 249
+# Entries: 250
 # Format: hosts
 
 # Unsafe game sites
@@ -28,7 +28,7 @@
 0.0.0.0 gamefabrique.ru
 0.0.0.0 steamunlocked.net
 # Pirate bay proxies And clones
-0.0.0.0 thepiratebay.org
+# thepiratebay.org
 0.0.0.0 pirate-bays.net
 0.0.0.0 piratebayproxy.net
 0.0.0.0 www.pirateproxy-bay.com
@@ -55,6 +55,9 @@
 0.0.0.0 thepiratebay1.info
 0.0.0.0 thepiratebay.rocks
 0.0.0.0 thepiratebay.vet
+# Popup ads on Pirate bay
+0.0.0.0 wpadmngr.com
+0.0.0.0 iconcardinal.com
 # Fake Fitgirl repacks sites
 0.0.0.0 fitgirl-repack.site
 0.0.0.0 fitgirl-repack.com

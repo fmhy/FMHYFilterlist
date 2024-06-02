@@ -1,11 +1,11 @@
 [Adblock Plus]
 ! Title: FMHY Unsafe sites filterlist
 ! Description: Blocks sites in the fmhy unsafe sites filterlists
-! Last modified: 01 Jun 2024 12:47 UTC
+! Last modified: 02 Jun 2024 17:37 UTC
 ! Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 ! License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-! Entries: 249
+! Entries: 250
 ! Format: abp
 
 ! Unsafe game sites
@@ -29,7 +29,7 @@
 ||gamefabrique.ru^
 ||steamunlocked.net^
 ! Pirate bay proxies And clones
-||thepiratebay.org^
+! thepiratebay.org
 ||pirate-bays.net^
 ||piratebayproxy.net^
 ||www.pirateproxy-bay.com^
@@ -56,6 +56,9 @@
 ||thepiratebay1.info^
 ||thepiratebay.rocks^
 ||thepiratebay.vet^
+! Popup ads on Pirate bay
+||wpadmngr.com^
+||iconcardinal.com^
 ! Fake Fitgirl repacks sites
 ||fitgirl-repack.site^
 ||fitgirl-repack.com^
