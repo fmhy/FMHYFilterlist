@@ -13,5 +13,14 @@
 ||*cracked-games.*^$all
 ||*getintopc.com^$all
 ||*softonic.*^$all
-||*thepiratebay.*^$all
+! ||*thepiratebay.*^$all
 ||*kickasstorrents.*^$all
+! Pirate bay filters
+thepiratebay.org##main::before:style(content: 'Do NOT download any software or a game from The Pirate Bay, all the content is user generated and could (very likely) include malware in it.' !important; font-size: 30px !important; color: red !important; font-weight: bold !important;)
+thepiratebay.org##p
+thepiratebay.org##label:has-text(/Applications/)
+thepiratebay.org##label:has-text(/Games/)
+thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Applications/))
+thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/Applications/))
+thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
+thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
