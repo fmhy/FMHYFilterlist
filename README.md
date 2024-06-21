@@ -7,7 +7,7 @@ FMHY Filterlist, Blocks unsafe sites listed in unsafe sites.
 1. [Go to the website](https://windowsaurora.github.io/FMHYFilterlist/site/index.html)
 2. Click the "1 Click Install For Ublock Origin" button
 3. Click the subscribe button
-### Ublock origin ( Manual )
+### Ublock origin (Manual)
 1. Open ublock origin and select the cog ( to go to the dashboard ).
 2. Click filter lists 
 3. Scroll down to "Import" click it and type this url: ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist.txt``` and click "Apply Changes"
