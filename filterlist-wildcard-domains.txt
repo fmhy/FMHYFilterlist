@@ -1,15 +1,24 @@
 # Title: FMHY Unsafe sites filterlist
 # Description: Blocks sites in the fmhy unsafe sites filterlists
-# Last modified: 02 Jun 2024 17:37 UTC
+# Last modified: 26 Jun 2024 15:02 UTC
 # Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 # License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-# Entries: 250
+# Entries: 259
 # Format: wildcard_domains
 
 # Unsafe game sites
 *.igg-games.com
 *.igg-games.cc
+*.bluemediafile.online
+*.bluemediafile.sbs
+*.bluemediafile.site
+*.bluemediafiles.com
+*.bluemediafiles.eu
+*.bluemediafiles.homes
+*.bluemediafiles.xyz
+*.bluemediastorage.online
+*.bluemediaurls.lol
 *.oceanofgames.com
 *.oceansofgamess.com
 *.oceantogames.com
