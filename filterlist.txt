@@ -1,10 +1,10 @@
 ! Title: FMHY Unsafe sites filterlist
 ! Description: Blocks sites in the fmhy unsafe sites filterlists
-! Last modified: 26 Jun 2024 15:02 UTC
+! Last modified: 30 Jun 2024 12:26 UTC
 ! Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 ! License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-! Entries: 283
+! Entries: 286
 ! Format: ublock
 
 ! Unsafe game sites
@@ -90,6 +90,9 @@
 ||fitgirl-repacks.vip^
 ||fitgirlrepackz.com^
 ||fitgirl-repacks.theproxy.vip^
+||fitgirl-repacks.us^
+||fitgirl-repacks.unb^
+||fitgirl-repacks.in^
 ! Software / App Sites
 ||getintopc.com^
 ||getintopc.cc^
