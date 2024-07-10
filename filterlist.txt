@@ -1,10 +1,10 @@
 ! Title: FMHY Unsafe sites filterlist
 ! Description: Blocks sites in the fmhy unsafe sites filterlists
-! Last modified: 30 Jun 2024 12:26 UTC
+! Last modified: 10 Jul 2024 08:48 UTC
 ! Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 ! License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-! Entries: 286
+! Entries: 287
 ! Format: ublock
 
 ! Unsafe game sites
@@ -284,7 +284,8 @@
 ||massgrav.*^$all,domain=~massgrave.dev
 ||massgraves.*^$all,domain=~massgrave.dev
 ||*kmspico*.*^$all,domain=~forums.mydigitallife.net
-||f*tgirl*repack*.*^$all,domain=~fitgirl-repacks.site
+||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
+||fitgirl*repack*.*^$all,domain=~fitgirl-repacks.site
 ||steamunlocked.*^$all
 ||igg-games.*^$all
 ||igggames.*^$all

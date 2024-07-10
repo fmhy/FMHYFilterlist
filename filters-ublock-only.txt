@@ -3,7 +3,8 @@
 ||massgrav.*^$all,domain=~massgrave.dev
 ||massgraves.*^$all,domain=~massgrave.dev
 ||*kmspico*.*^$all,domain=~forums.mydigitallife.net
-||f*tgirl*repack*.*^$all,domain=~fitgirl-repacks.site
+||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
+||fitgirl*repack*.*^$all,domain=~fitgirl-repacks.site
 ||steamunlocked.*^$all
 ||igg-games.*^$all
 ||igggames.*^$all
