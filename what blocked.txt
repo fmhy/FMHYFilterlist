@@ -58,7 +58,7 @@ GShade (ReShade mod) - Dev added code that can trigger unwanted reboots
 TotalAV / PC Protect / Protected
 
 
-Fake Zlib sites. (Source: https://new.reddit.com/r/zlibrary/comments/16xtm67/if_you_cannot_download_any_books_then_youre_on/ )
-( Last Updated May 17 2024 )
+Fake Zlib sites. (Source: https://www.reddit.com/r/zlibrary/wiki/index/scamsites/ )
+( Last Updated 29 July 2024 )
 
 Fake Windows activators ( Last Updated May 20 2024 )
