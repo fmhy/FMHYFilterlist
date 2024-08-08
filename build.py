@@ -51,7 +51,7 @@ def generate_blocklist(header_file, sitelist_file, output_file, format, filterli
           domains_lines[i] = ('*.' + domains_lines[i])
         elif format == 'wildcard_urls':
           domains_lines[i] = line.replace("\n", '')
-          domains_lines[i] = ('*://' + domains_lines[i] + '/*' + "\n")
+          domains_lines[i] = ('*://*.' + domains_lines[i] + '/*' + "\n")
       if line.startswith('!'):
         if format == 'hosts' or format == 'domains' or format == 'wildcard_domains' or format == 'wildcard_urls':
           domains_lines[i] = line.replace('!', '#')
