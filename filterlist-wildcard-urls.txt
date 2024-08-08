@@ -1,9 +1,9 @@
 # Title: FMHY Unsafe sites filterlist
 # Description: Blocks sites in the fmhy unsafe sites filterlists
-# Last modified: 08 Aug 2024 16:47 UTC
-# Homepage: https://github.com/WindowsAurora/FMHYFilterlist
-# License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
-# Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
+# Last modified: 08 Aug 2024 17:22 UTC
+# Homepage: https://github.com/fmhy/FMHYFilterlist
+# License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
+# Issues: https://github.com/fmhy/FMHYFilterlist/issues
 # Entries: 289
 # Format: wildcard_urls
 
