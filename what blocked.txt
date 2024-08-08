@@ -27,6 +27,7 @@ AllPCWorld
 RSLOAD
 AppValley
 CNET / Download.com / ZDNET / Softonic
+Few software sites with weird names reposting fake Windows activators
 
 Torrent Sites / Clients:
 
@@ -61,4 +62,4 @@ TotalAV / PC Protect / Protected
 Fake Zlib sites. (Source: https://www.reddit.com/r/zlibrary/wiki/index/scamsites/ )
 ( Last Updated 29 July 2024 )
 
-Fake Windows activators ( Last Updated May 20 2024 )
+Fake Windows activators ( Last Updated Aug 08 2024 )

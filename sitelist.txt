@@ -126,6 +126,15 @@ zdnet.com
 en.softonic.com
 softonic.com
 ezcrack.info
+ccm.net
+downloads.digitaltrends.com
+softmany.com
+intercambiosvirtuales.org
+i-loadzone.com
+softlay.com
+pcprogs.ru
+pcprogs.net
+freesoft.space
 ! Torrent Sites / Clients
 thekickasstorrents.com
 kickass-official.blue
@@ -230,12 +239,20 @@ z-library.help
 z-library-proxy.com
 ! Fake Windows Activators
 activator-kmspico.net
+activators4windows.com
+aktivator-windows.net
 ativadorkmspico.com
 dazactivator.com
 get-kmspico.com
 getkmspico.com
+getkmspico.medium.com
+kms-activator.net
+kms-auto.net
+kms-auto.site
 kms-pc.com
 kms-tool.com
+kmsauto.org
+kmsauto.su
 kmsautoplus.su
 kmsmatrix.com
 kmspico-activator-crack.com
@@ -244,10 +261,12 @@ kmspico-activator.in
 kmspico-mafia.com
 kmspico-official.xyz
 kmspico-oficial.com
+kmspico-software.net
 kmspico-tools2.site
 kmspico.co
 kmspico.icu
 kmspico.io
+kmspico.micaesoft.com
 kmspico.space
 kmspico.uno
 kmspico.ws
@@ -256,6 +275,7 @@ kmspicoactivator.net
 kmspicoativador.org
 kmspicodownloads.com
 kmspicofficial.com
+kmspicofficial.pages.dev
 kmspicoofficial.com
 kmspicoportable.com
 massgrav.shop
@@ -263,6 +283,7 @@ massgrav.zapto.org
 massgrave.hopto.org
 massgraves.online
 mrkmspico.com
+official-activator.net
 official-kmspico.co
 official-kmspico.com
 official-kmspico.org
@@ -271,3 +292,7 @@ officialkmspico.download
 officialkmspico.net
 officials-kmspico.com
 oficial-kmspico.com
+win7loader.com
+windows-7.net
+windows64.net
+windowsbit.net

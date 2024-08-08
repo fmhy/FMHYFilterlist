@@ -23,6 +23,7 @@ Blocklist formats:
 3. List of domains - ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-domains.txt```
 4. Hosts file - ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-hosts.txt```
 5. List of domains with wildcards - ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-wildcard-domains.txt```
+6. List of urls with wildcards - ```https://raw.githubusercontent.com/WindowsAurora/FMHYFilterlist/main/filterlist-wildcard-urls.txt```
 
 If your blocker doesn't support any of these formats, feel free to create an issue for adding support for your blocker.
 

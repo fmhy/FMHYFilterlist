@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist
 # Description: Blocks sites in the fmhy unsafe sites filterlists
-# Last modified: 10 Jul 2024 08:48 UTC
+# Last modified: 08 Aug 2024 16:12 UTC
 # Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 # License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-# Entries: 262
+# Entries: 288
 # Format: hosts
 
 # Unsafe game sites
@@ -135,6 +135,15 @@
 0.0.0.0 en.softonic.com
 0.0.0.0 softonic.com
 0.0.0.0 ezcrack.info
+0.0.0.0 ccm.net
+0.0.0.0 downloads.digitaltrends.com
+0.0.0.0 softmany.com
+0.0.0.0 intercambiosvirtuales.org
+0.0.0.0 i-loadzone.com
+0.0.0.0 softlay.com
+0.0.0.0 pcprogs.ru
+0.0.0.0 pcprogs.net
+0.0.0.0 freesoft.space
 # Torrent Sites / Clients
 0.0.0.0 thekickasstorrents.com
 0.0.0.0 kickass-official.blue
@@ -218,6 +227,7 @@
 0.0.0.0 zlib.to
 0.0.0.0 zlibrary.to
 0.0.0.0 zlibrary.is
+0.0.0.0 z-library.cc
 0.0.0.0 z-lib.io
 0.0.0.0 z-lib.ee
 0.0.0.0 z-lib.tf
@@ -238,12 +248,20 @@
 0.0.0.0 z-library-proxy.com
 # Fake Windows Activators
 0.0.0.0 activator-kmspico.net
+0.0.0.0 activators4windows.com
+0.0.0.0 aktivator-windows.net
 0.0.0.0 ativadorkmspico.com
 0.0.0.0 dazactivator.com
 0.0.0.0 get-kmspico.com
 0.0.0.0 getkmspico.com
+0.0.0.0 getkmspico.medium.com
+0.0.0.0 kms-activator.net
+0.0.0.0 kms-auto.net
+0.0.0.0 kms-auto.site
 0.0.0.0 kms-pc.com
 0.0.0.0 kms-tool.com
+0.0.0.0 kmsauto.org
+0.0.0.0 kmsauto.su
 0.0.0.0 kmsautoplus.su
 0.0.0.0 kmsmatrix.com
 0.0.0.0 kmspico-activator-crack.com
@@ -252,10 +270,12 @@
 0.0.0.0 kmspico-mafia.com
 0.0.0.0 kmspico-official.xyz
 0.0.0.0 kmspico-oficial.com
+0.0.0.0 kmspico-software.net
 0.0.0.0 kmspico-tools2.site
 0.0.0.0 kmspico.co
 0.0.0.0 kmspico.icu
 0.0.0.0 kmspico.io
+0.0.0.0 kmspico.micaesoft.com
 0.0.0.0 kmspico.space
 0.0.0.0 kmspico.uno
 0.0.0.0 kmspico.ws
@@ -264,6 +284,7 @@
 0.0.0.0 kmspicoativador.org
 0.0.0.0 kmspicodownloads.com
 0.0.0.0 kmspicofficial.com
+0.0.0.0 kmspicofficial.pages.dev
 0.0.0.0 kmspicoofficial.com
 0.0.0.0 kmspicoportable.com
 0.0.0.0 massgrav.shop
@@ -271,6 +292,7 @@
 0.0.0.0 massgrave.hopto.org
 0.0.0.0 massgraves.online
 0.0.0.0 mrkmspico.com
+0.0.0.0 official-activator.net
 0.0.0.0 official-kmspico.co
 0.0.0.0 official-kmspico.com
 0.0.0.0 official-kmspico.org
@@ -279,3 +301,7 @@
 0.0.0.0 officialkmspico.net
 0.0.0.0 officials-kmspico.com
 0.0.0.0 oficial-kmspico.com
+0.0.0.0 win7loader.com
+0.0.0.0 windows-7.net
+0.0.0.0 windows64.net
+0.0.0.0 windowsbit.net
