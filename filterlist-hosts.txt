@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist
 # Description: Blocks sites in the fmhy unsafe sites filterlists
-# Last modified: 08 Aug 2024 16:23 UTC
+# Last modified: 08 Aug 2024 16:47 UTC
 # Homepage: https://github.com/WindowsAurora/FMHYFilterlist
 # License: https://github.com/WindowsAurora/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/WindowsAurora/FMHYFilterlist/issues
-# Entries: 288
+# Entries: 289
 # Format: hosts
 
 # Unsafe game sites
@@ -239,6 +239,7 @@
 0.0.0.0 zlibis.com
 0.0.0.0 zlibrary-global.com
 0.0.0.0 zlib-official.com
+0.0.0.0 zlibrary.st
 0.0.0.0 zlibrary.lol
 0.0.0.0 z-library.live
 0.0.0.0 z-library.wiki
