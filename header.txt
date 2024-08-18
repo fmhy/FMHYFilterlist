@@ -1,5 +1,5 @@
-Title: FMHY Unsafe sites filterlist
-Description: Blocks sites in the fmhy unsafe sites filterlists
+Title: FMHY Unsafe sites filterlist - ${filterlist_edition}
+Description: Blocks ${sites_blocked} sites listed in the fmhy unsafe sites page
 Last modified: ${current_time}
 Homepage: https://github.com/fmhy/FMHYFilterlist
 License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE

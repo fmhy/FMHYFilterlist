@@ -1,10 +1,10 @@
-! Title: FMHY Unsafe sites filterlist - Plus
-! Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
+! Title: FMHY Unsafe sites filterlist - Basic
+! Description: Blocks malicious sites listed in the fmhy unsafe sites page
 ! Last modified: 18 Aug 2024 20:35 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 326
+! Entries: 280
 ! Format: ublock
 
 ! Unsafe game sites
@@ -269,55 +269,6 @@
 ||windows-activators.com^
 ||windows64.net^
 ||windowsbit.net^
-! This section of the filterlist contains not recommended/potentially unsafe sites and software domains used in the Plus version
-! Software / App Sites
-||www.cnet.com^
-||cnet.com^
-||download.cnet.com^
-||download.com^
-||www.zdnet.com^
-||zdnet.com^
-||en.softonic.com^
-||softonic.com^
-! Software / Apps
-||www.opera.com^
-||opera.com^
-||www.mcafee.com^
-||mcafee.com^
-||www.mcafeemobilesecurity.com^
-||mcafeemobilesecurity.com^
-||mcafeewebadvisor.com^
-||avast.com^
-||www.avg.com^
-||avg.com^
-||www.gendigital.com^
-||gendigital.com^
-||us.norton.com^
-||norton.com^
-||login.norton.com^
-||www.nortonlifelock.com^
-||nortonlifelock.com^
-||www.avira.com^
-||avira.com^
-||my.avira.com^
-||www.ccleaner.com^
-||ccleaner.com^
-||www.ccleanercloud.com^
-||ccleanercloud.com^
-||www.privateinternetaccess.com^
-||privateinternetaccess.com^
-||www.expressvpn.com^
-||expressvpn.com^
-||zenmate.com^
-||www.cyberghostvpn.com^
-||cyberghostvpn.com^
-||www.kape.com^
-||kape.com^
-||www.vpnmentor.com^
-||vpnmentor.com^
-||www.wizcase.com^
-||wizcase.com^
-||kik.com^
 ||ipcgames.com/ocean-of-games/*
 ||massgrave.*^$all,domain=~massgrave.dev
 ||massgrav.*^$all,domain=~massgrave.dev

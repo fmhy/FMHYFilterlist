@@ -1,10 +1,10 @@
-# Title: FMHY Unsafe sites filterlist - Plus
-# Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
+# Title: FMHY Unsafe sites filterlist - Basic
+# Description: Blocks malicious sites listed in the fmhy unsafe sites page
 # Last modified: 18 Aug 2024 20:35 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 298
+# Entries: 252
 # Format: hosts
 
 # Unsafe game sites
@@ -269,52 +269,3 @@
 0.0.0.0 windows-activators.com
 0.0.0.0 windows64.net
 0.0.0.0 windowsbit.net
-# This section of the filterlist contains not recommended/potentially unsafe sites and software domains used in the Plus version
-# Software / App Sites
-0.0.0.0 www.cnet.com
-0.0.0.0 cnet.com
-0.0.0.0 download.cnet.com
-0.0.0.0 download.com
-0.0.0.0 www.zdnet.com
-0.0.0.0 zdnet.com
-0.0.0.0 en.softonic.com
-0.0.0.0 softonic.com
-# Software / Apps
-0.0.0.0 www.opera.com
-0.0.0.0 opera.com
-0.0.0.0 www.mcafee.com
-0.0.0.0 mcafee.com
-0.0.0.0 www.mcafeemobilesecurity.com
-0.0.0.0 mcafeemobilesecurity.com
-0.0.0.0 mcafeewebadvisor.com
-0.0.0.0 avast.com
-0.0.0.0 www.avg.com
-0.0.0.0 avg.com
-0.0.0.0 www.gendigital.com
-0.0.0.0 gendigital.com
-0.0.0.0 us.norton.com
-0.0.0.0 norton.com
-0.0.0.0 login.norton.com
-0.0.0.0 www.nortonlifelock.com
-0.0.0.0 nortonlifelock.com
-0.0.0.0 www.avira.com
-0.0.0.0 avira.com
-0.0.0.0 my.avira.com
-0.0.0.0 www.ccleaner.com
-0.0.0.0 ccleaner.com
-0.0.0.0 www.ccleanercloud.com
-0.0.0.0 ccleanercloud.com
-0.0.0.0 www.privateinternetaccess.com
-0.0.0.0 privateinternetaccess.com
-0.0.0.0 www.expressvpn.com
-0.0.0.0 expressvpn.com
-0.0.0.0 zenmate.com
-0.0.0.0 www.cyberghostvpn.com
-0.0.0.0 cyberghostvpn.com
-0.0.0.0 www.kape.com
-0.0.0.0 kape.com
-0.0.0.0 www.vpnmentor.com
-0.0.0.0 vpnmentor.com
-0.0.0.0 www.wizcase.com
-0.0.0.0 wizcase.com
-0.0.0.0 kik.com

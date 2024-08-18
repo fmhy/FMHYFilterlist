@@ -1,11 +1,12 @@
-! Title: FMHY Unsafe sites filterlist - Plus
-! Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
+[Adblock Plus]
+! Title: FMHY Unsafe sites filterlist - Basic
+! Description: Blocks malicious sites listed in the fmhy unsafe sites page
 ! Last modified: 18 Aug 2024 20:35 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 326
-! Format: ublock
+! Entries: 252
+! Format: abp
 
 ! Unsafe game sites
 ||igg-games.com^
@@ -269,82 +270,3 @@
 ||windows-activators.com^
 ||windows64.net^
 ||windowsbit.net^
-! This section of the filterlist contains not recommended/potentially unsafe sites and software domains used in the Plus version
-! Software / App Sites
-||www.cnet.com^
-||cnet.com^
-||download.cnet.com^
-||download.com^
-||www.zdnet.com^
-||zdnet.com^
-||en.softonic.com^
-||softonic.com^
-! Software / Apps
-||www.opera.com^
-||opera.com^
-||www.mcafee.com^
-||mcafee.com^
-||www.mcafeemobilesecurity.com^
-||mcafeemobilesecurity.com^
-||mcafeewebadvisor.com^
-||avast.com^
-||www.avg.com^
-||avg.com^
-||www.gendigital.com^
-||gendigital.com^
-||us.norton.com^
-||norton.com^
-||login.norton.com^
-||www.nortonlifelock.com^
-||nortonlifelock.com^
-||www.avira.com^
-||avira.com^
-||my.avira.com^
-||www.ccleaner.com^
-||ccleaner.com^
-||www.ccleanercloud.com^
-||ccleanercloud.com^
-||www.privateinternetaccess.com^
-||privateinternetaccess.com^
-||www.expressvpn.com^
-||expressvpn.com^
-||zenmate.com^
-||www.cyberghostvpn.com^
-||cyberghostvpn.com^
-||www.kape.com^
-||kape.com^
-||www.vpnmentor.com^
-||vpnmentor.com^
-||www.wizcase.com^
-||wizcase.com^
-||kik.com^
-||ipcgames.com/ocean-of-games/*
-||massgrave.*^$all,domain=~massgrave.dev
-||massgrav.*^$all,domain=~massgrave.dev
-||massgraves.*^$all,domain=~massgrave.dev
-||*kmspico*.*^$all,domain=~forums.mydigitallife.net
-||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
-||kmsauto.*^$all
-||kms-auto.*^$all
-||kmsmatrix.*^$all
-||fitgirl*repack*.*^$all,domain=~fitgirl-repacks.site
-||steamunlocked.*^$all
-||igg-games.*^$all
-||igggames.*^$all
-||aimhaven.*^$all
-||oceanofgames.*^$all
-||crackingpatching.*^$all
-||*cracked-games.*^$all
-||*getintopc.com^$all
-||*softonic.*^$all
-! ||*thepiratebay.*^$all
-||*kickasstorrents.*^$all
-! Pirate bay filters
-thepiratebay.org##main::before:style(content: 'Do NOT download any software or a game from The Pirate Bay, all the content is user generated and could (very likely) include malware in it.' !important; font-size: 30px !important; color: red !important; font-weight: bold !important;)
-thepiratebay.org##p
-thepiratebay.org##label:has-text(/Applications/)
-thepiratebay.org##label:has-text(/Games/)
-thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Applications/))
-thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/Applications/))
-thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
-thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))

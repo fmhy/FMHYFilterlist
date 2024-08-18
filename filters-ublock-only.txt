@@ -4,6 +4,9 @@
 ||massgraves.*^$all,domain=~massgrave.dev
 ||*kmspico*.*^$all,domain=~forums.mydigitallife.net
 ||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
+||kmsauto.*^$all
+||kms-auto.*^$all
+||kmsmatrix.*^$all
 ||fitgirl*repack*.*^$all,domain=~fitgirl-repacks.site
 ||steamunlocked.*^$all
 ||igg-games.*^$all

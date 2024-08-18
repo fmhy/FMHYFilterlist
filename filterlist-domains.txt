@@ -1,10 +1,10 @@
-# Title: FMHY Unsafe sites filterlist
-# Description: Blocks sites in the fmhy unsafe sites filterlists
-# Last modified: 08 Aug 2024 17:22 UTC
+# Title: FMHY Unsafe sites filterlist - Plus
+# Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
+# Last modified: 18 Aug 2024 20:35 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 289
+# Entries: 298
 # Format: domains
 
 # Unsafe game sites
@@ -127,13 +127,6 @@ store.app-valley.vip
 app-valley.vip
 appvalley-apk.com
 tutubox.io
-www.cnet.com
-cnet.com
-download.com
-www.zdnet.com
-zdnet.com
-en.softonic.com
-softonic.com
 ezcrack.info
 ccm.net
 downloads.digitaltrends.com
@@ -167,45 +160,8 @@ downloadlynet.ir
 downloadly.ir
 downloadly.net
 downloadlyir.com
-www.opera.com
-opera.com
-www.mcafee.com
-mcafee.com
-www.mcafeemobilesecurity.com
-mcafeemobilesecurity.com
-avast.com
-www.avg.com
-avg.com
-www.gendigital.com
-gendigital.com
-us.norton.com
-norton.com
-login.norton.com
-www.nortonlifelock.com
-nortonlifelock.com
-www.avira.com
-avira.com
-my.avira.com
-www.ccleaner.com
-ccleaner.com
-www.ccleanercloud.com
-ccleanercloud.com
-www.privateinternetaccess.com
-privateinternetaccess.com
-www.expressvpn.com
-expressvpn.com
-zenmate.com
-www.cyberghostvpn.com
-cyberghostvpn.com
-www.kape.com
-kape.com
-www.vpnmentor.com
-vpnmentor.com
-www.wizcase.com
-wizcase.com
 bluesmods.com
 bluekik.pro
-kik.com
 tlauncher.org
 tlauncher.co.com
 polymc.org
@@ -249,6 +205,7 @@ z-library.help
 z-library-proxy.com
 # Fake Windows Activators
 activator-kmspico.net
+activators.pro
 activators4windows.com
 aktivator-windows.net
 ativadorkmspico.com
@@ -256,11 +213,14 @@ dazactivator.com
 get-kmspico.com
 getkmspico.com
 getkmspico.medium.com
+km-spico.ru
 kms-activator.net
 kms-auto.net
 kms-auto.site
 kms-pc.com
 kms-tool.com
+kmsauto.biz
+kmsauto.net.ru
 kmsauto.org
 kmsauto.su
 kmsautoplus.su
@@ -269,11 +229,13 @@ kmspico-activator-crack.com
 kmspico-activator-free.com
 kmspico-activator.in
 kmspico-mafia.com
+kmspico-official.medium.com
 kmspico-official.xyz
 kmspico-oficial.com
 kmspico-software.net
 kmspico-tools2.site
 kmspico.co
+kmspico.dev
 kmspico.icu
 kmspico.io
 kmspico.micaesoft.com
@@ -304,5 +266,55 @@ officials-kmspico.com
 oficial-kmspico.com
 win7loader.com
 windows-7.net
+windows-activators.com
 windows64.net
 windowsbit.net
+# This section of the filterlist contains not recommended/potentially unsafe sites and software domains used in the Plus version
+# Software / App Sites
+www.cnet.com
+cnet.com
+download.cnet.com
+download.com
+www.zdnet.com
+zdnet.com
+en.softonic.com
+softonic.com
+# Software / Apps
+www.opera.com
+opera.com
+www.mcafee.com
+mcafee.com
+www.mcafeemobilesecurity.com
+mcafeemobilesecurity.com
+mcafeewebadvisor.com
+avast.com
+www.avg.com
+avg.com
+www.gendigital.com
+gendigital.com
+us.norton.com
+norton.com
+login.norton.com
+www.nortonlifelock.com
+nortonlifelock.com
+www.avira.com
+avira.com
+my.avira.com
+www.ccleaner.com
+ccleaner.com
+www.ccleanercloud.com
+ccleanercloud.com
+www.privateinternetaccess.com
+privateinternetaccess.com
+www.expressvpn.com
+expressvpn.com
+zenmate.com
+www.cyberghostvpn.com
+cyberghostvpn.com
+www.kape.com
+kape.com
+www.vpnmentor.com
+vpnmentor.com
+www.wizcase.com
+wizcase.com
+kik.com
