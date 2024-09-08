@@ -5,4 +5,5 @@ Homepage: https://github.com/fmhy/FMHYFilterlist
 License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 Issues: https://github.com/fmhy/FMHYFilterlist/issues
 Entries: ${num_entries}
+Expires: 4 days
 Format: ${format}

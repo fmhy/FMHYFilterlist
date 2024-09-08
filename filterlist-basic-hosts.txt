@@ -1,10 +1,11 @@
 # Title: FMHY Unsafe sites filterlist - Basic
 # Description: Blocks malicious sites listed in the fmhy unsafe sites page
-# Last modified: 18 Aug 2024 20:35 UTC
+# Last modified: 08 Sep 2024 16:06 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 252
+# Entries: 253
+# Expires: 4 days
 # Format: hosts
 
 # Unsafe game sites
@@ -126,6 +127,7 @@
 0.0.0.0 store.app-valley.vip
 0.0.0.0 app-valley.vip
 0.0.0.0 appvalley-apk.com
+0.0.0.0 iobit.com
 0.0.0.0 tutubox.io
 0.0.0.0 ezcrack.info
 0.0.0.0 ccm.net

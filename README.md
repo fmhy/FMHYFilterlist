@@ -24,12 +24,14 @@ FMHY Filterlist, Blocks unsafe and optionally also not recommended sites listed 
 ### Other blockers:
 Add blocklist url with right syntax/formatting according to documentation of your blocker.
 Blocklist formats:
-1. Adblock Plus syntax (example uses: Pi-hole) - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-abp.txt```
-2. uBlock Origin syntax - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt```
-3. List of domains - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-domains.txt```
-4. Hosts file - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-hosts.txt```
-5. List of domains with wildcards - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-domains.txt```
-6. List of urls with wildcards - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt```
+| Format | Links |
+|:--------|:----------------|
+| Adblock Plus | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-abp.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-abp.txt`
+| uBlock Origin | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist.txt`
+| Domains | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-domains.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-domains.txt`
+| Hosts | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-hosts.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-hosts.txt`
+| Wildcard Domains | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-domains.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-wildcard-domains.txt`
+| Wildcard URLs<br>uBlacklist | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-wildcard-urls.txt`
 
 If your blocker doesn't support any of these formats, feel free to create an issue for adding support for your blocker.
 
@@ -47,12 +49,14 @@ If your blocker doesn't support any of these formats, feel free to create an iss
 ### Other blockers:
 Add blocklist url with right syntax/formatting according to documentation of your blocker.
 Blocklist formats:
-1. Adblock Plus syntax (example uses: Pi-hole) - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.txt```
-2. uBlock Origin syntax - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic.txt```
-3. List of domains - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-domains.txt```
-4. Hosts file - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-hosts.txt```
-5. List of domains with wildcards - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-wildcard-domains.txt```
-6. List of urls with wildcards - ```https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-wildcard-urls.txt```
+| Format | Links |
+|:--------|:-----------------|
+| Adblock Plus | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic-abp.txt`
+| uBlock Origin | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic.txt`
+| Domains | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-domains.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic-domains.txt`
+| Hosts | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-hosts.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic-hosts.txt`
+| Wildcard Domains | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-wildcard-domains.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic-wildcard-domains.txt`
+| Wildcard URLs<br>uBlacklist | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-wildcard-urls.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic-wildcard-urls.txt`
 
 ## How to contribute.
 

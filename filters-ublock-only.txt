@@ -17,6 +17,7 @@
 ||*cracked-games.*^$all
 ||*getintopc.com^$all
 ||*softonic.*^$all
+||iobit.*^$all
 ! ||*thepiratebay.*^$all
 ||*kickasstorrents.*^$all
 ! Pirate bay filters

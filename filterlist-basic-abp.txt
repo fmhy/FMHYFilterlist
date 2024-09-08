@@ -1,11 +1,12 @@
 [Adblock Plus]
 ! Title: FMHY Unsafe sites filterlist - Basic
 ! Description: Blocks malicious sites listed in the fmhy unsafe sites page
-! Last modified: 18 Aug 2024 20:35 UTC
+! Last modified: 08 Sep 2024 16:06 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 252
+! Entries: 253
+! Expires: 4 days
 ! Format: abp
 
 ! Unsafe game sites
@@ -127,6 +128,7 @@
 ||store.app-valley.vip^
 ||app-valley.vip^
 ||appvalley-apk.com^
+||iobit.com^
 ||tutubox.io^
 ||ezcrack.info^
 ||ccm.net^
