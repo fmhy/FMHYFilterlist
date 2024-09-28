@@ -1,6 +1,6 @@
 ! Title: FMHY Unsafe sites filterlist - Plus
 ! Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-! Last modified: 08 Sep 2024 16:06 UTC
+! Last modified: 28 Sep 2024 07:39 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
@@ -321,9 +321,9 @@
 ||wizcase.com^
 ||kik.com^
 ||ipcgames.com/ocean-of-games/*
-||massgrave.*^$all,domain=~massgrave.dev
-||massgrav.*^$all,domain=~massgrave.dev
-||massgraves.*^$all,domain=~massgrave.dev
+||massgrave.*^$all,domain=~massgrave.dev|~massgrave.visualstudio.com
+||massgrav.*^$all,domain=~massgrave.dev|~massgrave.visualstudio.com
+||massgraves.*^$all,domain=~massgrave.dev|~massgrave.visualstudio.com
 ||*kmspico*.*^$all,domain=~forums.mydigitallife.net
 ||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
 ||kmsauto.*^$all
