@@ -15,7 +15,7 @@ def generate_blocklist(output_file, format, is_sitelist_plus: bool = False, filt
   num_entries = 0
   with open(sitelist_file, 'r') as f_filtered:
         num_entries += countUncommentedLines(sitelist_file)
-  if(is_sitelist_plus):
+  if (is_sitelist_plus):
           num_entries += countUncommentedLines(sitelist_file_plus)
   if format == 'ublock':
           num_entries += countUncommentedLines(filterlist_file_ublock_only)
@@ -45,7 +45,7 @@ def generate_blocklist(output_file, format, is_sitelist_plus: bool = False, filt
 
     # Add proper filterlist formatting
     domains_lines = formatFile(sitelist_file, format)
-    if(is_sitelist_plus):
+    if (is_sitelist_plus):
      domains_lines_plus = formatFile(sitelist_file_plus, format)
 
     # Write modified header and filtered content
@@ -54,7 +54,7 @@ def generate_blocklist(output_file, format, is_sitelist_plus: bool = False, filt
     f_combined.writelines(header_lines)
     f_combined.writelines("\n")
     f_combined.writelines(domains_lines)
-    if(is_sitelist_plus):
+    if (is_sitelist_plus):
       if format == 'domains' or format == 'hosts' or format == 'wildcard_domains':
         f_combined.writelines("\n")
       f_combined.writelines(domains_lines_plus)
@@ -97,11 +97,11 @@ def countUncommentedLines(filename: str) -> int:
 print("Generating filterlist.")
 # Generate Plus version filterlist files
 generate_blocklist("filterlist.txt", "ublock", True, "filters-ublock-only.txt")
-generate_blocklist("filterlist-abp.txt", "abp",  True, "sitelist-plus.txt")
-generate_blocklist("filterlist-domains.txt", "domains", True, "sitelist-plus.txt")
-generate_blocklist("filterlist-wildcard-domains.txt", "wildcard_domains",  True, "sitelist-plus.txt")
-generate_blocklist("filterlist-wildcard-urls.txt", "wildcard_urls",  True, "sitelist-plus.txt")
-generate_blocklist("filterlist-hosts.txt", "hosts",  True, "sitelist-plus.txt")
+generate_blocklist("filterlist-abp.txt", "abp", True)
+generate_blocklist("filterlist-domains.txt", "domains", True)
+generate_blocklist("filterlist-wildcard-domains.txt", "wildcard_domains", True)
+generate_blocklist("filterlist-wildcard-urls.txt", "wildcard_urls", True)
+generate_blocklist("filterlist-hosts.txt", "hosts", True)
 # Generate Basic version filterlist files
 generate_blocklist("filterlist-basic.txt", "ublock", False, "filters-ublock-only.txt")
 generate_blocklist("filterlist-basic-abp.txt", "abp")
