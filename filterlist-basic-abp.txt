@@ -1,11 +1,11 @@
 [Adblock Plus]
 ! Title: FMHY Unsafe sites filterlist - Basic
 ! Description: Blocks malicious sites listed in the fmhy unsafe sites page
-! Last modified: 28 Sep 2024 07:39 UTC
+! Last modified: 30 Sep 2024 17:25 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 253
+! Entries: 254
 ! Expires: 4 days
 ! Format: abp
 
@@ -239,6 +239,7 @@
 ||kmspico-tools2.site^
 ||kmspico.co^
 ||kmspico.dev^
+||kmspico.download^
 ||kmspico.icu^
 ||kmspico.io^
 ||kmspico.micaesoft.com^

@@ -1,10 +1,10 @@
 ! Title: FMHY Unsafe sites filterlist - Plus
 ! Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-! Last modified: 28 Sep 2024 07:39 UTC
+! Last modified: 30 Sep 2024 17:25 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 328
+! Entries: 329
 ! Expires: 4 days
 ! Format: ublock
 
@@ -238,6 +238,7 @@
 ||kmspico-tools2.site^
 ||kmspico.co^
 ||kmspico.dev^
+||kmspico.download^
 ||kmspico.icu^
 ||kmspico.io^
 ||kmspico.micaesoft.com^

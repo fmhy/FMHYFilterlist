@@ -228,6 +228,7 @@ kmspico-software.net
 kmspico-tools2.site
 kmspico.co
 kmspico.dev
+kmspico.download
 kmspico.icu
 kmspico.io
 kmspico.micaesoft.com
