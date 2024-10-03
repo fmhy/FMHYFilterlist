@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Basic
 # Description: Blocks malicious sites listed in the fmhy unsafe sites page
-# Last modified: 30 Sep 2024 17:25 UTC
+# Last modified: 03 Oct 2024 15:52 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 254
+# Entries: 261
 # Expires: 4 days
 # Format: wildcard_urls
 
@@ -219,7 +219,9 @@
 *://*.kms-activator.net/*
 *://*.kms-auto.net/*
 *://*.kms-auto.site/*
+*://*.kms-full.com/*
 *://*.kms-pc.com/*
+*://*.kms-pico-download.com/*
 *://*.kms-tool.com/*
 *://*.kmsauto.biz/*
 *://*.kmsauto.net.ru/*
@@ -236,12 +238,14 @@
 *://*.kmspico-oficial.com/*
 *://*.kmspico-software.net/*
 *://*.kmspico-tools2.site/*
+*://*.kmspico.blog/*
 *://*.kmspico.co/*
 *://*.kmspico.dev/*
 *://*.kmspico.download/*
 *://*.kmspico.icu/*
 *://*.kmspico.io/*
 *://*.kmspico.micaesoft.com/*
+*://*.micaesoft.com/*
 *://*.kmspico.space/*
 *://*.kmspico.uno/*
 *://*.kmspico.ws/*
@@ -257,6 +261,7 @@
 *://*.massgrav.zapto.org/*
 *://*.massgrave.hopto.org/*
 *://*.massgraves.online/*
+*://*.microsoftactivationscripts.com/*
 *://*.mrkmspico.com/*
 *://*.official-activator.net/*
 *://*.official-kmspico.co/*
@@ -264,9 +269,11 @@
 *://*.official-kmspico.org/*
 *://*.officialkmspico.com/*
 *://*.officialkmspico.download/*
+*://*.officialkmspico.info/*
 *://*.officialkmspico.net/*
 *://*.officials-kmspico.com/*
 *://*.oficial-kmspico.com/*
+*://*.sumorb.com/*
 *://*.win7loader.com/*
 *://*.windows-7.net/*
 *://*.windows-activators.com/*

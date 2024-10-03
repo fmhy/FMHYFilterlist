@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Basic
 # Description: Blocks malicious sites listed in the fmhy unsafe sites page
-# Last modified: 30 Sep 2024 17:25 UTC
+# Last modified: 03 Oct 2024 15:52 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 254
+# Entries: 261
 # Expires: 4 days
 # Format: hosts
 
@@ -219,7 +219,9 @@
 0.0.0.0 kms-activator.net
 0.0.0.0 kms-auto.net
 0.0.0.0 kms-auto.site
+0.0.0.0 kms-full.com
 0.0.0.0 kms-pc.com
+0.0.0.0 kms-pico-download.com
 0.0.0.0 kms-tool.com
 0.0.0.0 kmsauto.biz
 0.0.0.0 kmsauto.net.ru
@@ -236,12 +238,14 @@
 0.0.0.0 kmspico-oficial.com
 0.0.0.0 kmspico-software.net
 0.0.0.0 kmspico-tools2.site
+0.0.0.0 kmspico.blog
 0.0.0.0 kmspico.co
 0.0.0.0 kmspico.dev
 0.0.0.0 kmspico.download
 0.0.0.0 kmspico.icu
 0.0.0.0 kmspico.io
 0.0.0.0 kmspico.micaesoft.com
+0.0.0.0 micaesoft.com
 0.0.0.0 kmspico.space
 0.0.0.0 kmspico.uno
 0.0.0.0 kmspico.ws
@@ -257,6 +261,7 @@
 0.0.0.0 massgrav.zapto.org
 0.0.0.0 massgrave.hopto.org
 0.0.0.0 massgraves.online
+0.0.0.0 microsoftactivationscripts.com
 0.0.0.0 mrkmspico.com
 0.0.0.0 official-activator.net
 0.0.0.0 official-kmspico.co
@@ -264,9 +269,11 @@
 0.0.0.0 official-kmspico.org
 0.0.0.0 officialkmspico.com
 0.0.0.0 officialkmspico.download
+0.0.0.0 officialkmspico.info
 0.0.0.0 officialkmspico.net
 0.0.0.0 officials-kmspico.com
 0.0.0.0 oficial-kmspico.com
+0.0.0.0 sumorb.com
 0.0.0.0 win7loader.com
 0.0.0.0 windows-7.net
 0.0.0.0 windows-activators.com
