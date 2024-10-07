@@ -6,6 +6,11 @@
 ||*kmspico*.*^$all,domain=~forums.mydigitallife.net
 ||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
 ||github.com/*/*KMS*pico*$all
+||raw.githubusercontent.com/*/*KMS*pico*$all
+||github.com/*/*KMS*auto*$all
+||raw.githubusercontent.com/*/*KMS*auto*$all
+||github.com/bluemods$all
+||raw.githubusercontent.com/bluemods$all
 ||kmsauto.*^$all
 ||kms-auto.*^$all
 ||kmsmatrix.*^$all

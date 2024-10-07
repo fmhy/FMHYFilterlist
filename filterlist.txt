@@ -1,10 +1,10 @@
 ! Title: FMHY Unsafe sites filterlist - Plus
 ! Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-! Last modified: 03 Oct 2024 15:52 UTC
+! Last modified: 07 Oct 2024 15:35 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 338
+! Entries: 344
 ! Expires: 4 days
 ! Format: ublock
 
@@ -139,6 +139,7 @@
 ||pcprogs.ru^
 ||pcprogs.net^
 ||freesoft.space^
+||dekisoft.com^
 ! Torrent Sites / Clients
 ||thekickasstorrents.com^
 ||kickass-official.blue^
@@ -336,6 +337,11 @@
 ||*kmspico*.*^$all,domain=~forums.mydigitallife.net
 ||*kms-pico*.*^$all,domain=~forums.mydigitallife.net
 ||github.com/*/*KMS*pico*$all
+||raw.githubusercontent.com/*/*KMS*pico*$all
+||github.com/*/*KMS*auto*$all
+||raw.githubusercontent.com/*/*KMS*auto*$all
+||github.com/bluemods$all
+||raw.githubusercontent.com/bluemods$all
 ||kmsauto.*^$all
 ||kms-auto.*^$all
 ||kmsmatrix.*^$all
