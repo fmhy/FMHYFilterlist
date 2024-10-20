@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Plus
 # Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-# Last modified: 07 Oct 2024 15:35 UTC
+# Last modified: 20 Oct 2024 07:15 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 308
+# Entries: 307
 # Expires: 4 days
 # Format: hosts
 
@@ -135,7 +135,6 @@
 0.0.0.0 softmany.com
 0.0.0.0 intercambiosvirtuales.org
 0.0.0.0 i-loadzone.com
-0.0.0.0 softlay.com
 0.0.0.0 pcprogs.ru
 0.0.0.0 pcprogs.net
 0.0.0.0 freesoft.space
