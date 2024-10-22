@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Plus
 # Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-# Last modified: 20 Oct 2024 07:15 UTC
+# Last modified: 22 Oct 2024 20:38 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 307
+# Entries: 308
 # Expires: 4 days
 # Format: domains
 
@@ -38,7 +38,7 @@ gamefabrique.com
 gamefabrique.ru
 steamunlocked.net
 # Pirate bay proxies And clones
-# thepiratebay.org
+thepiratebay.org
 pirate-bays.net
 piratebayproxy.net
 www.pirateproxy-bay.com
@@ -279,6 +279,7 @@ windows-7.net
 windows-activators.com
 windows64.net
 windowsbit.net
+
 # This section of the filterlist contains not recommended/potentially unsafe sites and software domains used in the Plus version
 # Software / App Sites
 www.cnet.com
