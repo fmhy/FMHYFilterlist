@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Basic
 # Description: Blocks malicious sites listed in the fmhy unsafe sites page
-# Last modified: 20 Oct 2024 07:15 UTC
+# Last modified: 28 Oct 2024 18:53 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 261
+# Entries: 265
 # Expires: 4 days
 # Format: wildcard_urls
 
@@ -37,6 +37,7 @@
 *://*.gamefabrique.com/*
 *://*.gamefabrique.ru/*
 *://*.steamunlocked.net/*
+*://*.game-repack.site/*
 # Pirate bay proxies And clones
 # thepiratebay.org
 *://*.pirate-bays.net/*
@@ -128,6 +129,9 @@
 *://*.app-valley.vip/*
 *://*.appvalley-apk.com/*
 *://*.iobit.com/*
+*://*.taiwebs.com/*
+*://*.crackingcity.com/*
+*://*.www.crackingcity.com/*
 *://*.tutubox.io/*
 *://*.ezcrack.info/*
 *://*.ccm.net/*
