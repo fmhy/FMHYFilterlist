@@ -1,11 +1,11 @@
 [Adblock Plus]
 ! Title: FMHY Unsafe sites filterlist - Plus
 ! Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-! Last modified: 28 Oct 2024 18:53 UTC
+! Last modified: 30 Oct 2024 14:44 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 311
+! Entries: 312
 ! Expires: 4 days
 ! Format: abp
 
@@ -126,6 +126,7 @@
 ||allpcworld.co^
 ||allpcworlds.com^
 ||rsload.net^
+||appnee.com^
 ||store.app-valley.vip^
 ||app-valley.vip^
 ||appvalley-apk.com^

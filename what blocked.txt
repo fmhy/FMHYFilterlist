@@ -26,6 +26,7 @@ MainRepo / MRepo
 YASDL
 AllPCWorld
 RSLOAD
+AppNee
 AppValley
 CNET / Download.com / ZDNET / Softonic
 IObit
