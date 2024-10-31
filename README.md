@@ -69,7 +69,7 @@ Dm me in discord ( windowsaurora ) to request to be a collaborator this ensure t
 
 ## Something is missing or broken in the FilterList.
 
-[Open a issue](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic.txt&title=FMHY%20Filterlist)
+[Open a issue](https://github.com/fmhy/FMHYFilterlist/issues)
 
 ## How do i contribute?
 
