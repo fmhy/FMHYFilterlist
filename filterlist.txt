@@ -1,16 +1,22 @@
 ! Title: FMHY Unsafe sites filterlist - Plus
 ! Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-! Last modified: 30 Oct 2024 14:44 UTC
+! Last modified: 06 Nov 2024 18:19 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 348
+! Entries: 355
 ! Expires: 4 days
 ! Format: ublock
 
 ! Unsafe game sites
 ||igg-games.com^
 ||igg-games.cc^
+||igg-games.gg^
+||igg-games.net.in^
+||igg-games.org.in^
+||igg-igames.org^
+||igg.game.blog^
+||www.downelink.com^
 ||bluemediafile.online^
 ||bluemediafile.sbs^
 ||bluemediafile.site^
@@ -37,6 +43,7 @@
 ||gamefabrique.com^
 ||gamefabrique.ru^
 ||steamunlocked.net^
+||steamunlocked.pk^
 ||game-repack.site^
 ! Pirate bay proxies And clones
 ! thepiratebay.org

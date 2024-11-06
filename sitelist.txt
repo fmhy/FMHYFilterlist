@@ -1,6 +1,12 @@
 ! Unsafe game sites
 igg-games.com
 igg-games.cc
+igg-games.gg
+igg-games.net.in
+igg-games.org.in
+igg-igames.org
+igg.game.blog
+www.downelink.com
 bluemediafile.online
 bluemediafile.sbs
 bluemediafile.site
@@ -27,6 +33,7 @@ wifi4games.net
 gamefabrique.com
 gamefabrique.ru
 steamunlocked.net
+steamunlocked.pk
 game-repack.site
 ! Pirate bay proxies And clones
 ! thepiratebay.org
