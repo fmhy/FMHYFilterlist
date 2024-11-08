@@ -22,12 +22,12 @@ Add blocklist url with right syntax/formatting according to documentation of you
 Blocklist formats:
 | Format | Links |
 |:--------|:----------------|
-| Adblock Plus | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-abp.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-abp.txt`
-| uBlock Origin | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist.txt`
-| Domains | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-domains.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-domains.txt`
-| Hosts | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-hosts.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-hosts.txt`
-| Wildcard Domains | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-domains.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-wildcard-domains.txt`
-| Wildcard URLs<br>uBlacklist | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-wildcard-urls.txt`
+| Adblock Plus | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-abp.txt`
+| uBlock Origin | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist.txt`
+| Domains | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-domains.txt`
+| Hosts | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-hosts.txt`
+| Wildcard Domains | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-domains.txt`
+| Wildcard URLs<br>uBlacklist | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-wildcard-urls.txt`
 
 If your blocker doesn't support any of these formats, feel free to create an issue for adding support for your blocker.
 
@@ -50,12 +50,12 @@ Add blocklist url with right syntax/formatting according to documentation of you
 Blocklist formats:
 | Format | Links |
 |:--------|:-----------------|
-| Adblock Plus | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic-abp.txt`
-| uBlock Origin | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic.txt`
-| Domains | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-domains.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic-domains.txt`
-| Hosts | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-hosts.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic-hosts.txt`
-| Wildcard Domains | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-wildcard-domains.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic-wildcard-domains.txt`
-| Wildcard URLs<br>uBlacklist | Main Link - `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-wildcard-urls.txt`<br>Mirror - `https://fmhy.github.io/FMHYFilterlist/filterlist-basic-wildcard-urls.txt`
+| Adblock Plus | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.txt`
+| uBlock Origin | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic.txt`
+| Domains | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-domains.txt`
+| Hosts | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-hosts.txt`
+| Wildcard Domains | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-wildcard-domains.txt`
+| Wildcard URLs<br>uBlacklist | `https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-wildcard-urls.txt`
 
 # FAQ:
 
