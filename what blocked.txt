@@ -59,7 +59,6 @@ Private Internet Access / ExpressVPN / ZenMate / CyberGhost - Owned by malware d
 BlueKik / Bluecord (chat mods) - History of spam / spying
 Kik (messaging app) - App used by mostly predators / scammers
 TLauncher (minecraft launcher) - Shady business practices / Note that TLauncher Legacy is unrelated
-PolyMC (minecraft launcher) - Owner kicked all members from repo / discord. Keep in mind PollyMC (two L's) is safe.
 GShade (ReShade mod) - Dev added code that can trigger unwanted reboots
 TotalAV / PC Protect / Protected
 

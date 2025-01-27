@@ -4,8 +4,7 @@ www.cnet.com
 cnet.com
 download.cnet.com
 download.com
-www.zdnet.com
-zdnet.com
+downloads.zdnet.de
 en.softonic.com
 softonic.com
 ! Software / Apps

@@ -1,10 +1,10 @@
 ! Title: FMHY Unsafe sites filterlist - Basic
 ! Description: Blocks malicious sites listed in the fmhy unsafe sites page
-! Last modified: 30 Oct 2024 14:44 UTC
+! Last modified: 27 Dec 2024 22:23 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 302
+! Entries: 301
 ! Expires: 4 days
 ! Format: ublock
 
@@ -171,7 +171,6 @@
 ||bluekik.pro^
 ||tlauncher.org^
 ||tlauncher.co.com^
-||polymc.org^
 ||www.gshade.org^
 ||gshade.org^
 ||www.totalav.com^

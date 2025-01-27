@@ -1,4 +1,4 @@
-# FMHYFilterlist
+# FMHY Filterlist
 FMHY Filterlist, Blocks unsafe and optionally also not recommended sites listed in [FMHY unsafe sites](https://fmhy.net/unsafesites).
 
 > [!NOTE]
