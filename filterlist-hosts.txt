@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Plus
 # Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-# Last modified: 24 May 2025 16:52 UTC
+# Last modified: 24 May 2025 19:47 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 312
+# Entries: 313
 # Expires: 4 days
 # Format: hosts
 
@@ -163,6 +163,7 @@
 0.0.0.0 bitlord.com
 0.0.0.0 bitlorddl.com
 0.0.0.0 1377x.to
+0.0.0.0 www.nyaa.eu
 # Software / Apps
 0.0.0.0 limewire.com
 0.0.0.0 downloadlynet.ir
