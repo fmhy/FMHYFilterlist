@@ -1,11 +1,11 @@
 [Adblock Plus]
 ! Title: FMHY Unsafe sites filterlist - Basic
 ! Description: Blocks malicious sites listed in the fmhy unsafe sites page
-! Last modified: 27 Dec 2024 22:23 UTC
+! Last modified: 24 May 2025 16:52 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 265
+! Entries: 267
 ! Expires: 4 days
 ! Format: abp
 
@@ -145,6 +145,8 @@
 ||pcprogs.net^
 ||freesoft.space^
 ||dekisoft.com^
+||appdoze.com^
+||protonge.com^
 ! Torrent Sites / Clients
 ||thekickasstorrents.com^
 ||kickass-official.blue^
