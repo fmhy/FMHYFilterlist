@@ -1,0 +1,52 @@
+name: Generate and Commit Filterlists
+
+on:
+  push:
+    branches:
+      - main # Only triggers on pushes (including merges) to the 'main' branch
+
+jobs:
+  build-and-commit-lists:
+    runs-on: ubuntu-latest
+    # Grant permissions for actions/checkout to fetch and for subsequent git commands to push
+    permissions:
+      contents: write # Allows the job to push to the repository
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12' # Specify Python version
+
+      - name: Run Python script to generate filterlists
+        run: python build.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Stage changes, commit, and push
+        run: |
+          git add filterlist.txt \
+                  filterlist-abp.txt \
+                  filterlist-domains.txt \
+                  filterlist-wildcard-domains.txt \
+                  filterlist-wildcard-urls.txt \
+                  filterlist-hosts.txt \
+                  filterlist-basic.txt \
+                  filterlist-basic-abp.txt \
+                  filterlist-basic-domains.txt \
+                  filterlist-basic-wildcard-domains.txt \
+                  filterlist-basic-wildcard-urls.txt \
+                  filterlist-basic-hosts.txt
+          # Only commit and push if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated: Generate filterlists [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
