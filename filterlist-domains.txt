@@ -1,6 +1,6 @@
 # Title: FMHY Unsafe sites filterlist - Plus
 # Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-# Last modified: 25 May 2025 15:10 UTC
+# Last modified: 25 May 2025 15:30 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
