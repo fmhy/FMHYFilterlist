@@ -73,4 +73,4 @@ Dm me in discord ( windowsaurora ) to request to be a collaborator this ensure t
 
 ## How do i contribute?
 
-Fork the project, add a website in sitelist.txt or sitelist-plus (Respectively) and run build.py then submit a pull request.
+Fork the project, add a website in sitelist.txt or sitelist-plus (Respectively) and then submit a pull request.
