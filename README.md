@@ -70,7 +70,3 @@ Dm me in discord ( windowsaurora ) to request to be a collaborator this ensure t
 ## Something is missing or broken in the FilterList.
 
 [Open a issue](https://github.com/fmhy/FMHYFilterlist/issues)
-
-## How do i contribute?
-
-Fork the project, add a website in sitelist.txt or sitelist-plus (Respectively) and then submit a pull request.
