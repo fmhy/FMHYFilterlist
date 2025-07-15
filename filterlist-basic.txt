@@ -1,6 +1,6 @@
 ! Title: FMHY Unsafe sites filterlist - Basic
 ! Description: Blocks malicious sites listed in the fmhy unsafe sites page
-! Last modified: 10 Jun 2025 14:51 UTC
+! Last modified: 15 Jul 2025 20:38 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
