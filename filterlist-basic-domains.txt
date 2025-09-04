@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Basic
 # Description: Blocks malicious sites listed in the fmhy unsafe sites page
-# Last modified: 19 Jul 2025 16:27 UTC
+# Last modified: 04 Sep 2025 21:27 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 269
+# Entries: 270
 # Expires: 4 days
 # Format: domains
 
@@ -109,6 +109,7 @@ sadeemapk.com
 karanpc.com
 filecr.com
 ftuapps.io
+p30download.ir
 ftuapps.dev
 www.ftuapps.me
 ftuapps.me
