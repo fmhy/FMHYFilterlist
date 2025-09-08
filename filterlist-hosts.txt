@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Plus
 # Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-# Last modified: 07 Sep 2025 03:38 UTC
+# Last modified: 08 Sep 2025 14:52 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 314
+# Entries: 315
 # Expires: 4 days
 # Format: hosts
 
@@ -25,6 +25,7 @@
 0.0.0.0 oceantogames.com
 0.0.0.0 oceanofgamesu.com
 0.0.0.0 oceanofapks.com
+0.0.0.0 taiwebs.com
 0.0.0.0 oceanofgame.cc
 0.0.0.0 blackboxrepacke.com
 0.0.0.0 crackingpatching.com

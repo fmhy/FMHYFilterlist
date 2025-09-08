@@ -1,10 +1,10 @@
 ! Title: FMHY Unsafe sites filterlist - Basic
 ! Description: Blocks malicious sites listed in the fmhy unsafe sites page
-! Last modified: 07 Sep 2025 03:38 UTC
+! Last modified: 08 Sep 2025 14:52 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 305
+! Entries: 306
 ! Expires: 4 days
 ! Format: ublock
 
@@ -25,6 +25,7 @@
 ||oceantogames.com^
 ||oceanofgamesu.com^
 ||oceanofapks.com^
+||taiwebs.com^
 ||oceanofgame.cc^
 ||blackboxrepacke.com^
 ||crackingpatching.com^
