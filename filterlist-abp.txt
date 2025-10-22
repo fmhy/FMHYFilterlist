@@ -1,11 +1,11 @@
 [Adblock Plus]
 ! Title: FMHY Unsafe sites filterlist - Plus
 ! Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-! Last modified: 08 Sep 2025 14:52 UTC
+! Last modified: 22 Oct 2025 07:16 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 315
+! Entries: 336
 ! Expires: 4 days
 ! Format: abp
 
@@ -24,11 +24,24 @@
 ||oceanofgames.com^
 ||oceansofgamess.com^
 ||oceantogames.com^
+||loadgames.org^
+||freetp.org^
+||game3rb.com^
 ||oceanofgamesu.com^
+||gamesreleaser.com^
+||sgcrack.com^
+||rgmechanics.com^
+||small-games.info^
+||getgamez.net^
+||mrpcgamer.co^
+||nexus-games.net^
+||nosteamgames.ro^
+||hisgames.org^
 ||oceanofapks.com^
 ||taiwebs.com^
 ||oceanofgame.cc^
 ||blackboxrepacke.com^
+||extrogames.com^
 ||crackingpatching.com^
 ||www.crackingpatching.org^
 ||crackingpatching.org^
@@ -38,8 +51,14 @@
 ||wifi4games.net^
 ||gamefabrique.com^
 ||gamefabrique.ru^
+||steamunlocked.pro^
 ||steamunlocked.net^
+||steamcracked.co^
+||steamhub.co^
+||stggege.org^
+||unlocked-games.com^
 ||game-repack.site^
+||agfy.co^
 ! Pirate bay proxies And clones
 ! thepiratebay.org
 ||pirate-bays.net^
@@ -166,6 +185,8 @@
 ||bitlorddl.com^
 ||1377x.to^
 ||www.nyaa.eu^
+||alltorrents.co^
+||pcgamestorrents.com^
 ! Software / Apps
 ||limewire.com^
 ||downloadlynet.ir^

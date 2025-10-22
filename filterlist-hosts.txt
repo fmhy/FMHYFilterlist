@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Plus
 # Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-# Last modified: 08 Sep 2025 14:52 UTC
+# Last modified: 22 Oct 2025 07:16 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 315
+# Entries: 336
 # Expires: 4 days
 # Format: hosts
 
@@ -23,11 +23,24 @@
 0.0.0.0 oceanofgames.com
 0.0.0.0 oceansofgamess.com
 0.0.0.0 oceantogames.com
+0.0.0.0 loadgames.org
+0.0.0.0 freetp.org
+0.0.0.0 game3rb.com
 0.0.0.0 oceanofgamesu.com
+0.0.0.0 gamesreleaser.com
+0.0.0.0 sgcrack.com
+0.0.0.0 rgmechanics.com
+0.0.0.0 small-games.info
+0.0.0.0 getgamez.net
+0.0.0.0 mrpcgamer.co
+0.0.0.0 nexus-games.net
+0.0.0.0 nosteamgames.ro
+0.0.0.0 hisgames.org
 0.0.0.0 oceanofapks.com
 0.0.0.0 taiwebs.com
 0.0.0.0 oceanofgame.cc
 0.0.0.0 blackboxrepacke.com
+0.0.0.0 extrogames.com
 0.0.0.0 crackingpatching.com
 0.0.0.0 www.crackingpatching.org
 0.0.0.0 crackingpatching.org
@@ -37,8 +50,14 @@
 0.0.0.0 wifi4games.net
 0.0.0.0 gamefabrique.com
 0.0.0.0 gamefabrique.ru
+0.0.0.0 steamunlocked.pro
 0.0.0.0 steamunlocked.net
+0.0.0.0 steamcracked.co
+0.0.0.0 steamhub.co
+0.0.0.0 stggege.org
+0.0.0.0 unlocked-games.com
 0.0.0.0 game-repack.site
+0.0.0.0 agfy.co
 # Pirate bay proxies And clones
 # thepiratebay.org
 0.0.0.0 pirate-bays.net
@@ -165,6 +184,8 @@
 0.0.0.0 bitlorddl.com
 0.0.0.0 1377x.to
 0.0.0.0 www.nyaa.eu
+0.0.0.0 alltorrents.co
+0.0.0.0 pcgamestorrents.com
 # Software / Apps
 0.0.0.0 limewire.com
 0.0.0.0 downloadlynet.ir
