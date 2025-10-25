@@ -63,10 +63,6 @@ Blocklist formats:
 
 Fork the project, add a website in sitelist.txt (or in sitelist-plus.txt if the domain fits in the Plus category) and run build.py then submit a pull request. 
 
-## Want to be a developer for the filterlist?
-
-Dm me in discord ( windowsaurora ) to request to be a collaborator this ensure the filterlist stays up to date if i can not update it. please note that you should have at least 1 pull request accepted to request being a collaborator.
-
 ## Something is missing or broken in the FilterList.
 
 [Open a issue](https://github.com/fmhy/FMHYFilterlist/issues)
