@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Basic
 # Description: Blocks malicious sites listed in the fmhy unsafe sites page
-# Last modified: 25 Oct 2025 04:03 UTC
+# Last modified: 25 Oct 2025 05:24 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 270
+# Entries: 300
 # Expires: 4 days
 # Format: hosts
 
@@ -39,6 +39,37 @@
 0.0.0.0 gamefabrique.ru
 0.0.0.0 steamunlocked.net
 0.0.0.0 game-repack.site
+0.0.0.0 apunkagames.onl
+0.0.0.0 apunkagames.cfd
+0.0.0.0 igames.ink
+# Fake Steamrip Sites
+0.0.0.0 steamrip.asia
+0.0.0.0 steamrip.quest
+0.0.0.0 steamrip.info
+0.0.0.0 steamrip.rest
+0.0.0.0 steamrip.guru
+0.0.0.0 steamrip.plus
+0.0.0.0 steamrip.cool
+0.0.0.0 steamrip.cyou
+0.0.0.0 steamrip.living
+0.0.0.0 steamrip.za.com
+0.0.0.0 steam-rip.sa.com
+0.0.0.0 steam-rip.site
+0.0.0.0 steamripzone.com
+0.0.0.0 steamrip.chat
+0.0.0.0 steam-rip.my
+0.0.0.0 steamrip.mov
+0.0.0.0 steamrip.fyi
+0.0.0.0 steamrip.biz
+0.0.0.0 steamrip.sbs
+0.0.0.0 steamrip.art
+0.0.0.0 ssteamrip.it.com
+0.0.0.0 steamrips.it.com
+0.0.0.0 steamrip.pages.dev
+0.0.0.0 v1-steamrip.pages.dev
+0.0.0.0 steamrip.global.ssl.fastly.net
+0.0.0.0 steamrip-ru.s3.amazonaws.com
+0.0.0.0 steamrip-ad.s3.amazonaws.com
 # Pirate bay proxies And clones
 # thepiratebay.org
 0.0.0.0 pirate-bays.net

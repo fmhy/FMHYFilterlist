@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Basic
 # Description: Blocks malicious sites listed in the fmhy unsafe sites page
-# Last modified: 25 Oct 2025 04:03 UTC
+# Last modified: 25 Oct 2025 05:24 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 270
+# Entries: 300
 # Expires: 4 days
 # Format: domains
 
@@ -39,6 +39,37 @@ gamefabrique.com
 gamefabrique.ru
 steamunlocked.net
 game-repack.site
+apunkagames.onl
+apunkagames.cfd
+igames.ink
+# Fake Steamrip Sites
+steamrip.asia
+steamrip.quest
+steamrip.info
+steamrip.rest
+steamrip.guru
+steamrip.plus
+steamrip.cool
+steamrip.cyou
+steamrip.living
+steamrip.za.com
+steam-rip.sa.com
+steam-rip.site
+steamripzone.com
+steamrip.chat
+steam-rip.my
+steamrip.mov
+steamrip.fyi
+steamrip.biz
+steamrip.sbs
+steamrip.art
+ssteamrip.it.com
+steamrips.it.com
+steamrip.pages.dev
+v1-steamrip.pages.dev
+steamrip.global.ssl.fastly.net
+steamrip-ru.s3.amazonaws.com
+steamrip-ad.s3.amazonaws.com
 # Pirate bay proxies And clones
 # thepiratebay.org
 pirate-bays.net
