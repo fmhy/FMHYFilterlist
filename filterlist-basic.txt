@@ -1,10 +1,10 @@
 ! Title: FMHY Unsafe sites filterlist - Basic
 ! Description: Blocks malicious sites listed in the fmhy unsafe sites page
-! Last modified: 11 Jan 2026 02:43 UTC
+! Last modified: 11 Jan 2026 02:45 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 306
+! Entries: 318
 ! Expires: 4 days
 ! Format: ublock
 
@@ -288,6 +288,18 @@
 ||windows64.net^
 ||windowsbit.net^
 ||gamepciso.com^
+||vanced.to^
+||revanced.net^
+||revanced.dev^
+||revanced.to^
+||revancedextended.com^
+||revancedextended.io^
+||revancedapp.download^
+||revancedapps.com^
+||revancedapk.org^
+||revancedapp.io^
+||revancedapk.net^
+||vanced.io^
 ||ipcgames.com/ocean-of-games/*
 ||massgrave.*^$all,domain=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
 ||massgrav.*^$all,domain=~massgrave.dev|~massgrave.pages.dev|~massgrave.visualstudio.com
