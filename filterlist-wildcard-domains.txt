@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Plus
 # Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-# Last modified: 25 Oct 2025 04:03 UTC
+# Last modified: 11 Jan 2026 02:43 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 315
+# Entries: 316
 # Expires: 4 days
 # Format: wildcard_domains
 
@@ -337,3 +337,4 @@
 *.www.wizcase.com
 *.wizcase.com
 *.kik.com
+*.360totalsecurity.com
