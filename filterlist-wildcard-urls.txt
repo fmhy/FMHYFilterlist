@@ -1,10 +1,10 @@
 # Title: FMHY Unsafe sites filterlist - Plus
 # Description: Blocks malicious and not recommended sites listed in the fmhy unsafe sites page
-# Last modified: 11 Jan 2026 02:45 UTC
+# Last modified: 07 Feb 2026 10:56 UTC
 # Homepage: https://github.com/fmhy/FMHYFilterlist
 # License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 # Issues: https://github.com/fmhy/FMHYFilterlist/issues
-# Entries: 328
+# Entries: 327
 # Expires: 4 days
 # Format: wildcard_urls
 
@@ -31,7 +31,6 @@
 *://*.crackingpatching.com/*
 *://*.www.crackingpatching.org/*
 *://*.crackingpatching.org/*
-*://*.cracked-games.org/*
 *://*.www.wifi4games.com/*
 *://*.wifi4games.com/*
 *://*.wifi4games.net/*
