@@ -1,11 +1,11 @@
 [Adblock Plus]
 ! Title: FMHY Unsafe sites filterlist - Basic
 ! Description: Blocks malicious sites listed in the fmhy unsafe sites page
-! Last modified: 06 Jun 2026 02:47 UTC
+! Last modified: 07 Jun 2026 22:32 UTC
 ! Homepage: https://github.com/fmhy/FMHYFilterlist
 ! License: https://github.com/fmhy/FMHYFilterlist/blob/main/LICENSE
 ! Issues: https://github.com/fmhy/FMHYFilterlist/issues
-! Entries: 283
+! Entries: 284
 ! Expires: 4 days
 ! Format: abp
 
@@ -38,6 +38,7 @@
 ||gamefabrique.com^
 ||gamefabrique.ru^
 ||steamunlocked.net^
+||steamunlocked.org^
 ||game-repack.site^
 ! Pirate bay proxies And clones
 ! thepiratebay.org
