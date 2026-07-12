@@ -11,6 +11,8 @@
 ||raw.githubusercontent.com/*/*KMS*auto*$all
 ||github.com/bluemods$all
 ||raw.githubusercontent.com/bluemods$all
+||github.com/fvision8/fvreleases^$all
+||linktr.ee/flixvision^$all
 ||kmsauto.*^$all
 ||kms-auto.*^$all
 ||kmsmatrix.*^$all
