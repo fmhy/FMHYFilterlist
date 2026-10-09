@@ -21,7 +21,6 @@
 ||aimhaven.*^$all
 ||oceanofgames.*^$all
 ||crackingpatching.*^$all
-||*cracked-games.*^$all
 ||*getintopc.com^$all
 ||*softonic.*^$all
 ||iobit.*^$all
