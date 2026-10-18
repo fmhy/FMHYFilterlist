@@ -35,3 +35,5 @@ thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Applica
 thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/Applications/))
 thepiratebay.org#?#li#st.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
 thepiratebay.org#?#li#st.alt.list-entry:-abp-has(> .item-type:-abp-contains(/Games/))
+! Fake streaming / age-verification scam sites
+||stream-access.*^$all
